@@ -1,4 +1,7 @@
 {
     "name": "PWA example",
-    "short_name": "PWA example"
+    "short_name": "PWA example",
+    "start_url": ".",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578"
 }
